@@ -15,4 +15,4 @@ spec:
           - backend:
               serviceName: hook
               servicePort: 80
-      host: 5f6b8f12d0a2.ngrok.io
+      host: 610786171002.ngrok.io
